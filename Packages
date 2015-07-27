@@ -1,0 +1,15 @@
+Package: com.MaxxiC.DurararaGlyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MaxxiC <andmassic@icloud.com>
+Depends: lockglyph
+Filename: ./debs/com.maxxic.durararaglyph_1.0_iphoneos-arm.deb
+Size: 626
+MD5sum: 97645cee1ea3a33e2992a0a8fca42577
+SHA1: 2c9b7be4f1592b881714f671b822b9287e226755
+SHA256: 7d50894c93fd6541ba44278c4490261cc57d0406f0a5c94825abf00bb4c47405
+Section: Themes (LockGlyph)
+Description: DurararaGlyph Logo for LockGlyph
+Author: MaxxiC <andmassic@icloud.com>
+Name: DurararaGlyph
+
