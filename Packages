@@ -1,0 +1,28 @@
+Package: com.MaxxiC.DurararaGlyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MaxxiC <andmassic@icloud.com>
+Filename: ./debs//com.maxxic.durararaglyph_1.0_iphoneos-arm.deb
+Size: 145142
+MD5sum: 0cd1087f33201562198ac093af1a375c
+SHA1: 847c4f735780698fb1d7b27bccfe1d0a8cdfa566
+SHA256: f297eb83334dc8b2f3694b99125ffcd7e85dc92c5d94ae7d5749f689d50110e4
+Section: Theme (LockGlyph)
+Description: DurararaGlyph Logo for LockGlyph
+Author: MaxxiC <andmassic@icloud.com>
+Name: DurararaGlyph
+
+Package: com.MaxxiC.SoulectionGlyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MaxxiC <andmassic@icloud.com>
+Filename: ./debs//com.maxxic.soulectionglyph_1.0_iphoneos-arm.deb
+Size: 56368
+MD5sum: 1ccd0add0985f302225afba6bcc578fa
+SHA1: c317b4dec2bc10e8f4ada1e56a8b8bb048f495c1
+SHA256: 0023beeb71f1d73f9d2b438081760714e2244e0b06151b0bfcd67b6a4a418598
+Section: Theme (LockGlyph)
+Description: SoulectionGlyph Logo for LockGlyph
+Author: MaxxiC <andmassic@icloud.com>
+Name: SoulectionGlyph
+
