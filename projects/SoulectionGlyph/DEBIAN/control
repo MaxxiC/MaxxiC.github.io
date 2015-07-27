@@ -1,9 +1,0 @@
-Package: com.MaxxiC.SoulectionGlyph
-Name: SoulectionGlyph
-Depends:
-Version: 1.0
-Architecture: iphoneos-arm
-Description: SoulectionGlyph Logo for LockGlyph
-Maintainer: MaxxiC <andmassic@icloud.com>
-Author: MaxxiC <andmassic@icloud.com>
-Section: Theme (LockGlyph)

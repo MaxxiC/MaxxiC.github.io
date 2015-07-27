@@ -1,9 +1,0 @@
-Package: com.MaxxiC.DurararaGlyph
-Name: DurararaGlyph
-Depends:
-Version: 1.0
-Architecture: iphoneos-arm
-Description: DurararaGlyph Logo for LockGlyph
-Maintainer: MaxxiC <andmassic@icloud.com>
-Author: MaxxiC <andmassic@icloud.com>
-Section: Theme (LockGlyph)
