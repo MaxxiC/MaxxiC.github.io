@@ -3,10 +3,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MaxxiC <andmassic@icloud.com>
 Filename: debs//com.maxxic.durararaglyph_1.0_iphoneos-arm.deb
-Size: 145194
-MD5sum: 643f0257a4d69a7ea967a088c3c1ea05
-SHA1: 262e2b1c33dddbc562116283c135fb92498ab5b3
-SHA256: a52ac81913016fbda0b5ab4b4504061e62d2037a3211becd0482d39922d1f7d5
+Size: 145232
+MD5sum: 26ddbac08692b7b01242d472611346e3
+SHA1: fd476ecc02e8f77f10aa60bd3b8e317833364550
+SHA256: 0a910d4c55e5f9f33ffad1cd7ab08219df0c3914425432d854e11a6ae8021145
 Section: Theme (LockGlyph)
 Description: DurararaGlyph Logo for LockGlyph
 Author: MaxxiC <andmassic@icloud.com>
@@ -17,12 +17,26 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MaxxiC <andmassic@icloud.com>
 Filename: debs//com.maxxic.soulectionglyph_1.0_iphoneos-arm.deb
-Size: 56334
-MD5sum: 1c82e35c53ac4a6d1ae0fe4f41bc24e7
-SHA1: d3d6e3656fb5860a82ca2a3be0691c4debcfe3eb
-SHA256: 97721b4f6fa18a5b9a14d348a78603f402435937c1ddfa36d2997efb5b1faf9a
+Size: 56368
+MD5sum: 0fd6b1d15ab556f202c87c61a1f28c40
+SHA1: 5c2382137904112d7d8e97b8056448da29eb2f7f
+SHA256: 68756e96e8586dc04781a55b47aa8a80c687730a887bac33b4d75fe8df6f6480
 Section: Theme (LockGlyph)
 Description: SoulectionGlyph Logo for LockGlyph
 Author: MaxxiC <andmassic@icloud.com>
 Name: SoulectionGlyph
+
+Package: com.MaxxiC.carlogolockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MaxxiC <andmassic@icloud.com>
+Filename: debs//com.maxxic.carlogolockglyph_1.0_iphoneos-arm.deb
+Size: 448254
+MD5sum: 117f5b776874d04133f7e995bafd26a8
+SHA1: a682f74cc175ce7330c1557bb9b7a19374bf3e75
+SHA256: 563e51d49eff62d2ab7a554da8f836c6258d2c6f55eaf4388b1a32ac3e060cfb
+Section: Theme (LockGlyph)
+Description: Car Logos for LockGlyph
+Author: MaxxiC <andmassic@icloud.com>
+Name: CarLogo LockGlyph
 
