@@ -31,10 +31,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MaxxiC <andmassic@icloud.com>
 Filename: debs//com.maxxic.carlogolockglyph_1.0_iphoneos-arm.deb
-Size: 448254
-MD5sum: 117f5b776874d04133f7e995bafd26a8
-SHA1: a682f74cc175ce7330c1557bb9b7a19374bf3e75
-SHA256: 563e51d49eff62d2ab7a554da8f836c6258d2c6f55eaf4388b1a32ac3e060cfb
+Size: 448144
+MD5sum: 7083812b72873bed423e71e8a24c4b4b
+SHA1: a7c96df7bbe0bf9dc8745cf48407ef745dd3aaf0
+SHA256: ca9fe6abb1808bc9ca82345b336ae3d296e1a311ec30d7cbded1c036da66f323
 Section: Theme (LockGlyph)
 Description: Car Logos for LockGlyph
 Author: MaxxiC <andmassic@icloud.com>
