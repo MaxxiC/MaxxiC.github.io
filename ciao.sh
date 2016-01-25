@@ -2,5 +2,5 @@
 
 cd ./Desktop/MyRepo
 rm -f Packages.bz2
-dpkg-scanpackages debs
+dpkg-scanpackages debs > Packages
 bzip2 -fks Packages
