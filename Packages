@@ -18,12 +18,12 @@ Architecture: iphoneos-arm
 Maintainer: MaxxiC <andmassic@icloud.com>
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: debs//com.MaxxiC.NoBlurAS.deb
-Size: 2556
-MD5sum: bef9935fcf72e1e76bb37770a8663231
-SHA1: 014adcd3ce6e4f94ae44097e77b42d4cb5cbd2ec
-SHA256: 413bc8e7c6a0a74fc741f4dc66512ca59b12814ebef3cf7640d6dc37068a380d
-Section: Tweaks (siok)
+Filename: debs//com.MaxxiC.NoBlurAS_1.0.deb
+Size: 2624
+MD5sum: 28807012ad2455a84a5c22e198d0479d
+SHA1: 6be49f8a72cd015d079cf3d3dacd357e154c9574
+SHA256: 577b38f10d37de9e2ae30e1f2f9a64c3882a42b64e493b1611a154600d67b3e5
+Section: Tweaks
 Description: No Blur in AppSwitcher
 Author: MaxxiC <andmassic@icloud.com>
 Depiction: http://maxxic.github.io/depictions/NoBlurAS.html
