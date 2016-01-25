@@ -2,7 +2,7 @@ Package: com.MaxxiC.DurararaGlyph
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MaxxiC <andmassic@icloud.com>
-Filename: debs//com.maxxic.durararaglyph_1.0_iphoneos-arm.deb
+Filename: debs//com.maxxic.durararaglyph.deb
 Size: 145232
 MD5sum: 26ddbac08692b7b01242d472611346e3
 SHA1: fd476ecc02e8f77f10aa60bd3b8e317833364550
@@ -12,11 +12,28 @@ Description: DurararaGlyph Logo for LockGlyph
 Author: MaxxiC <andmassic@icloud.com>
 Name: DurararaGlyph
 
+Package: com.MaxxiC.NoBlurAS
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: MaxxiC
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.MaxxiC.NoBlurAS.deb
+Size: 2518
+MD5sum: a745c4939698f551d1bd4ea247fd3a12
+SHA1: 553ff25765bf3873ae65b6191769db64bd0189fc
+SHA256: c648a21d35347f452256e75e57e4389b280ebad20e1eb8a3eb8b93df90121dd8
+Section: Tweaks
+Description: No Blur in AppSwitcher
+Author: MaxxiC
+Depiction: /depictions/NoBlurAS.html
+Name: NoBlurAS
+
 Package: com.MaxxiC.SoulectionGlyph
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MaxxiC <andmassic@icloud.com>
-Filename: debs//com.maxxic.soulectionglyph_1.0_iphoneos-arm.deb
+Filename: debs//com.maxxic.soulectionglyph.deb
 Size: 56368
 MD5sum: 0fd6b1d15ab556f202c87c61a1f28c40
 SHA1: 5c2382137904112d7d8e97b8056448da29eb2f7f
@@ -30,7 +47,7 @@ Package: com.MaxxiC.carlogolockglyph
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: MaxxiC <andmassic@icloud.com>
-Filename: debs//com.maxxic.carlogolockglyph_1.0_iphoneos-arm.deb
+Filename: debs//com.maxxic.carlogolockglyph.deb
 Size: 448144
 MD5sum: 7083812b72873bed423e71e8a24c4b4b
 SHA1: a7c96df7bbe0bf9dc8745cf48407ef745dd3aaf0
@@ -38,5 +55,5 @@ SHA256: ca9fe6abb1808bc9ca82345b336ae3d296e1a311ec30d7cbded1c036da66f323
 Section: Theme (LockGlyph)
 Description: Car Logos for LockGlyph
 Author: MaxxiC <andmassic@icloud.com>
-Depiction: http://MaxxiC.github.io/depictions/com.maxxic.carlogolockglyph/index.html
 Name: CarLogo LockGlyph
+

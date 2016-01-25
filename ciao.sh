@@ -1,5 +1,6 @@
 #!/bin/bash
 
-rm -r ./Packages.bz2
-dpkg-scanpackages ./debs
+cd ./Desktop/MyRepo
+rm -f Packages.bz2
+dpkg-scanpackages debs
 bzip2 -fks Packages
