@@ -1,9 +1,9 @@
 Origin: MaxxiC Repo <3
-Label: MaxxiC-Repo
+Label: MaxxiC Repo
 Suite: stable
 Version: 1.0
 Codename: MaxxiC
 Architectures: iphoneos-arm
 Components: main
-Description: MaxxiC-Repo
+Description: MaxxiC Repo
 MD5Sum:
