@@ -13,16 +13,16 @@ Author: MaxxiC <andmassic@icloud.com>
 Name: DurararaGlyph
 
 Package: com.MaxxiC.NoBlurAS
-Version: 1.4-1
+Version: 1.5-1
 Architecture: iphoneos-arm
 Maintainer: MaxxiC <andmassic@icloud.com>
-Installed-Size: 88
+Installed-Size: 184
 Depends: mobilesubstrate
-Filename: debs//com.MaxxiC.NoBlurAS_1.4-1_iphoneos-arm.deb
-Size: 2614
-MD5sum: b90a18781b2bc843d16329d8b25a25d9
-SHA1: 351d5d77fcb1a47a83b8b0cdb781147ed66a347f
-SHA256: 9ff8af72563e0da278522c025e916f19cfa1cbf33009aa05a2a225536645c02f
+Filename: debs//com.MaxxiC.NoBlurAS_1.5-1_iphoneos-arm.deb
+Size: 5766
+MD5sum: e1121bd701292323b28d98669e4dae92
+SHA1: 48c10f234d9f73578b9781cc076cf16900deb92a
+SHA256: 6ce0bbe3fe3cf2ca08bf305c522d347fba6223c128f3419926c71ee140c15a87
 Section: Tweaks
 Description: No Blur in AppSwitcher
 Author: MaxxiC <andmassic@icloud.com>
