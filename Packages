@@ -40,3 +40,19 @@ Description: Car Logos for LockGlyph
 Author: MaxxiC <andmassic@icloud.com>
 Name: CarLogo LockGlyph
 
+Package: com.maxxic.prova1
+Version: 0.1-4
+Architecture: iphoneos-arm
+Maintainer: maxxic
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs//com.maxxic.prova1_0.1-4_iphoneos-arm.deb
+Size: 2562
+MD5sum: 9a87617ea7dd4bd91104961cf194239b
+SHA1: ea959e11181c5e5155cb0af9ff4e368fbe9268a5
+SHA256: d65319bd8b4819422bc4e1d6a87067147c7f764930467978448bf2b5ca80f5a0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: maxxic
+Name: prova1
+
