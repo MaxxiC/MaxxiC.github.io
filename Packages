@@ -41,16 +41,16 @@ Author: MaxxiC <andmassic@icloud.com>
 Name: CarLogo LockGlyph
 
 Package: com.maxxic.prova1
-Version: 0.1-1
+Version: 0.1-2
 Architecture: iphoneos-arm
 Maintainer: maxxic
 Installed-Size: 88
 Depends: mobilesubstrate
-Filename: debs//com.maxxic.prova1_0.1-1_iphoneos-arm.deb
+Filename: debs//com.maxxic.prova1_0.1-2_iphoneos-arm.deb
 Size: 2562
-MD5sum: da88de2e48985f579a76862ef325d98d
-SHA1: 22628c0fd2994a1155f7b1457564919326d0246a
-SHA256: 6e48ffc029e3c40bd084e393a7ec486b3efcaf3770b1469aff2fd1a21ebfb853
+MD5sum: 989824c304f2a6c2f0a30c8a42991231
+SHA1: f47e1caac27056256fa449603675319d68d08fdd
+SHA256: 87dbebaa71f50b4761ccbc0ffd5d1f6b2b0bc262d1389f75ab9591181e26888c
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: maxxic
