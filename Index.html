@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Prova di Conti M - 07/12/16</title>
+</head>
+<body>
+
+<form name="miaForm" action="PagPHP.php" method="POST">
+
+<h1 align="center">Acquista Biglietti Online</h1>
+<p align="center">
+
+<table border="2">
+
+<tr>
+<td>Cognome</td>
+<td>Nome</td>
+<td>Indirizzo</td>
+<td>Codice Fiscale</td>
+</tr>
+
+<tr>
+<td><input type="text" name="Cng"></input></td>
+<td><input type="text" name="Nom"></input></td>
+<td><input type="text" name="Indr"></input></td>
+<td><input type="text" name="CodF"></input></td>
+</tr>
+
+</table>
+
+Seleziona il concerto:
+<select name="NomeConcerto">
+ <option value=1>The 1975 - 30 euro</option>
+ <option value=2>The Killers - 50 euro</option>
+ <option value=3>Bethowen - 777 euro</option>
+ <option value=4>Salmo - 1984 euro</option>
+ <option value=5>Oasis - 70 euro</option>
+ <option value=6>The Beatles - 120 euro</option>
+ <option value=7>Rovazzi - 1 euro</option>
+</select>
+<br>
+Quanti biglietti vuoi comprare:
+<select name="Nbtt">
+ <option value=1>1</option>
+ <option value=2>2</option>
+ <option value=3>3</option>
+ <option value=4>4</option>
+ <option value=5>5</option>
+ <option value=6>6</option>
+ <option value=7>7</option>
+ <option value=7>8</option>
+ <option value=7>9</option>
+</select>
+<input type="submit" value="CALCOLO PREZZO">
+</p>
+
+</form>
+
+</body>
+</html>
